@@ -1,0 +1,15 @@
+C:\Users\alexander\source\repos\sem2lab1\sem2lab1\obj\Debug\netcoreapp3.1\sem2lab1.csproj.AssemblyReference.cache
+C:\Users\alexander\source\repos\sem2lab1\sem2lab1\obj\Debug\netcoreapp3.1\sem2lab1.AssemblyInfoInputs.cache
+C:\Users\alexander\source\repos\sem2lab1\sem2lab1\obj\Debug\netcoreapp3.1\sem2lab1.AssemblyInfo.cs
+C:\Users\alexander\source\repos\sem2lab1\sem2lab1\obj\Debug\netcoreapp3.1\sem2lab1.csproj.CoreCompileInputs.cache
+C:\Users\alexander\source\repos\sem2lab1\sem2lab1\bin\Debug\netcoreapp3.1\sem2lab1.exe
+C:\Users\alexander\source\repos\sem2lab1\sem2lab1\bin\Debug\netcoreapp3.1\sem2lab1.deps.json
+C:\Users\alexander\source\repos\sem2lab1\sem2lab1\bin\Debug\netcoreapp3.1\sem2lab1.runtimeconfig.json
+C:\Users\alexander\source\repos\sem2lab1\sem2lab1\bin\Debug\netcoreapp3.1\sem2lab1.runtimeconfig.dev.json
+C:\Users\alexander\source\repos\sem2lab1\sem2lab1\bin\Debug\netcoreapp3.1\sem2lab1.dll
+C:\Users\alexander\source\repos\sem2lab1\sem2lab1\bin\Debug\netcoreapp3.1\sem2lab1.pdb
+C:\Users\alexander\source\repos\sem2lab1\sem2lab1\obj\Debug\netcoreapp3.1\sem2lab1.dll
+C:\Users\alexander\source\repos\sem2lab1\sem2lab1\obj\Debug\netcoreapp3.1\sem2lab1.pdb
+C:\Users\alexander\source\repos\sem2lab1\sem2lab1\obj\Debug\netcoreapp3.1\sem2lab1.genruntimeconfig.cache
+C:\Users\alexander\source\repos\sem2lab1\sem2lab1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\alexander\source\repos\sem2lab1\sem2lab1\obj\Debug\netcoreapp3.1\sem2lab1.csproj.CopyComplete

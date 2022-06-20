@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "63ZfX9SglkmDe+tF/59VLAjHczRilBLP90siiB5KbWpLyle+CIp/AHTA8S+M070gaaADko+1huJ4l8ewp3v4yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexander\\source\\repos\\sem2lab1\\sem2lab1\\sem2lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexander\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
